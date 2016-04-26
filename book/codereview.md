@@ -60,7 +60,9 @@ After all asked changes being implemented you can finally merge pull request:
 
 ### Wait for your branch being merged
 
+When you receive the notification of your branch being merged, you can successfully delete your working branch:
 
+    git branch -D <branch name>
 
 
 
