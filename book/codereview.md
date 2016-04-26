@@ -32,7 +32,13 @@ Run
     git commit -am "Added a new change related to the new chapter"
     git push origin <branch name>
     
+![](../img/push-new-branch.png)
 
+### Create pull request
+
+Go to your github page and click on Compare & pull request button:
+
+![](../img/click-compare-and-pr.png)
 
 
 
