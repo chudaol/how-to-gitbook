@@ -8,6 +8,7 @@ In this case you should create a separate branch, make your changes, push the br
 * edit your book
 * commit and push changes
 * create pull request
+* Being a reviewer
 * wait for it to being merged
 
 ### Create a branch
@@ -39,6 +40,29 @@ Run
 Go to your github page and click on Compare & pull request button:
 
 ![](../img/click-compare-and-pr.png)
+
+Check your changes and click on Create pull request button:
+
+![](../img/check-and-pr.png)
+
+Now wait for comments from your collegues and repeat the process of editing and resubmitting until your branch is finally merged.
+
+### Being a reviewer
+
+If you received a pull request from your colleague, go through it and comment on what you think should be changed:
+ 
+![](../img/comment-pr.png)
+
+After all asked changes being implemented you can finally merge pull request:
+
+![](../img/merge-pr.png)
+
+
+### Wait for your branch being merged
+
+
+
+
 
 
 
