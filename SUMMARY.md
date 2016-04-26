@@ -3,3 +3,4 @@
 * [Create a book](book/create.md)
 * [Edit a book](book/edit.md)
 * [Submit changes](book/submit.md)
+* [Code review before submit changes](book/codereview.md)
