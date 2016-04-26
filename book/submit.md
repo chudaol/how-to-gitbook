@@ -29,6 +29,9 @@ Go to the console. CD to your book directory.
     git push origin master
     
 Now check your beautiful book online!
+
+![](../img/book-online.png)
+
     
 
 
